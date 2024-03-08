@@ -1,0 +1,9 @@
+Deixaria uma lâmpada ligada o tempo suficiente para esquentar e depois apagaria essa e ligaria outra. 
+Após isso iria em uma das salas.
+Se a sala estiver com a luz apagada e quente, então sei que corresponde ao interruptor que liguei e apaguei.
+Se a sala estiver com a luz apagada e fria, então sei que corresponde ao interruptor que não liguei.
+Se estiver acessa é do interruptor que liguei.
+Após isso saberei de pelo menos um interruptor.
+Antes de usar a outra ida, deixarei um interruptor ligado e outro apagado.
+Se a sala estiver com a luz apagada, então corresponde ao interruptor apagado.
+Se a sala estiver com a luz acessa, então corresponde ao interruptor ligado.
